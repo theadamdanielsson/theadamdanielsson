@@ -1,12 +1,12 @@
 <a href="https://github.com/theadamdanielsson/grill">
-  <img src="https://raw.githubusercontent.com/theadamdanielsson/grill/7.0.0/docs/release-7.svg" alt="Grill 7.0: quiz yourself on your own notes. Start free.">
+  <img src="https://raw.githubusercontent.com/theadamdanielsson/grill/8.0.0/docs/release-8.svg" alt="Grill 8.0: chat with your notes. Get grilled on them.">
 </a>
 
-### Grill 7.0 is out
+### Grill 8.0 is here!
 
-[Grill](https://github.com/theadamdanielsson/grill) quizzes you on your own Obsidian notes. It writes the questions, grades what you type back, and colours in a map of what you know.
+[Grill](https://github.com/theadamdanielsson/grill) is now a chat that works inside your Obsidian vault. It reads, edits and tests you on your own notes, and it remembers what you got wrong.
 
-7.0 adds Grill Cloud. Press Start free and you're studying. No API key. No sign-up.
+Run it free on Grill Cloud, or on your own key, Claude Code or Codex.
 
-- [What's new in 7.0](https://github.com/theadamdanielsson/grill/releases/tag/7.0.0)
+- [What's new in 8.0](https://github.com/theadamdanielsson/grill/releases/tag/8.0.0)
 - [Get it in Obsidian](https://community.obsidian.md/plugins/grill)
