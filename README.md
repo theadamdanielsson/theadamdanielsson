@@ -1,13 +1,13 @@
 <a href="https://github.com/theadamdanielsson/grill">
-  <img src="https://raw.githubusercontent.com/theadamdanielsson/grill/8.6.0/docs/release-8-6.svg" alt="Grill 8.6: now connected. MCP, skills and the web, no subscription needed.">
+  <img src="release-8-7.svg" alt="Grill 8.7: knows why you missed. Every chat starts from what you got wrong.">
 </a>
 
-### Grill 8.6 is here!
+### Grill 8.7 is here!
 
-[Grill](https://github.com/theadamdanielsson/grill) tests you on your Obsidian notes and remembers what you got wrong. Now its chat uses your MCP servers and skills and reads the web, with no Claude or ChatGPT plan needed.
+[Grill](https://github.com/theadamdanielsson/grill) tests you on your Obsidian notes and remembers what you got wrong. Now every chat starts from that record: what is due, where you are weakest, and the confusions still showing in your answers.
 
-Sign in to a server right from Grill. Ask about your whole vault and it works from your folders, links and headings. Past chats are kept, and long ones keep going.
+A wrong answer is kept with the reason it was marked down, so Chat can name the exact mistake. A confusion stays open while it keeps showing up and closes once it stops.
 
-- [What's new in 8.6](https://github.com/theadamdanielsson/grill/releases/tag/8.6.0)
+- [What's new in 8.7](https://github.com/theadamdanielsson/grill/releases/tag/8.7.0)
 - [Get it in Obsidian](https://community.obsidian.md/plugins/grill)
 - [grill-test, for any agent](https://github.com/theadamdanielsson/grill/tree/main/skills/grill-test)
