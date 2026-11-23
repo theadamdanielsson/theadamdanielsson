@@ -11,3 +11,9 @@ You can also paste a picture into the chat and ask about it, and a reply that ch
 - [What's new in 8.9](https://github.com/theadamdanielsson/grill/releases/tag/8.9.0)
 - [Get it in Obsidian](https://community.obsidian.md/plugins/grill)
 - [grill-test, for any agent](https://github.com/theadamdanielsson/grill/tree/main/skills/grill-test)
+
+### ggufpacker
+
+[ggufpacker](https://github.com/theadamdanielsson/ggufpacker) checks that a quantised model file was really made from the model it claims. It rebuilds the file from the source and compares every byte.
+
+The work turned up a defect in llama.cpp: the same model quantised on two machines gives different files. The one-flag fix is [proposed upstream](https://github.com/ggml-org/llama.cpp/pull/25353). The result has been reproduced independently by [a paper](https://arxiv.org/abs/2610.19498) and by a [Red Hat Research project](https://github.com/RedHatResearch/aibom-security/issues/26).
