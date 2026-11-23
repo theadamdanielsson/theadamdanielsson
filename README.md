@@ -1,13 +1,13 @@
 <a href="https://github.com/theadamdanielsson/grill">
-  <img src="release-8-7.svg" alt="Grill 8.7: knows why you missed. Every chat starts from what you got wrong.">
+  <img src="release-8-8.svg" alt="Grill 8.8: photos and scans into notes. Handwriting, slides and PDFs, written out as notes.">
 </a>
 
-### Grill 8.7 is here!
+### Grill 8.8 is here!
 
-[Grill](https://github.com/theadamdanielsson/grill) tests you on your Obsidian notes and remembers what you got wrong. Now every chat starts from that record: what is due, where you are weakest, and the confusions still showing in your answers.
+[Grill](https://github.com/theadamdanielsson/grill) is an AI tutor for your Obsidian notes. It tests you on them and remembers what you got wrong. Now it also gets your paper into the vault: pick a photo of handwriting, a slide, a scanned page or a PDF, and Grill writes it out as a note.
 
-A wrong answer is kept with the reason it was marked down, so Chat can name the exact mistake. A confusion stays open while it keeps showing up and closes once it stops.
+Formulas come out as LaTeX and tables as tables. A word it is unsure of is marked, and the note links to the original so you can check it. On a phone the picker opens the camera.
 
-- [What's new in 8.7](https://github.com/theadamdanielsson/grill/releases/tag/8.7.0)
+- [What's new in 8.8](https://github.com/theadamdanielsson/grill/releases/tag/8.8.0)
 - [Get it in Obsidian](https://community.obsidian.md/plugins/grill)
 - [grill-test, for any agent](https://github.com/theadamdanielsson/grill/tree/main/skills/grill-test)
